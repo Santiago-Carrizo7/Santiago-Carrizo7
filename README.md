@@ -29,7 +29,7 @@ Soy Desarrollador Full Stack y estudiante de último año de la Tecnicatura Univ
 
 ## Contacto
 *   **Email:** santiago.carrizo.dev@gmail.com
-*   **LinkedIn:** https://www.linkedin.com/in/santiago-carrizo-fullstack/
+*   **LinkedIn:** https://www.linkedin.com/in/santiago-carrizo-dev/
 
 ## Estadísticas de GitHub
 
