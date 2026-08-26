@@ -1,6 +1,6 @@
 # Hola, soy Santi 👋
 
-Soy Desarrollador Full Stack y estudiante de último año de la Tecnicatura Universitaria en Programación (UNSa). Me especializo en el ecosistema JavaScript/TypeScript, construyendo desde interfaces dinámicas hasta arquitecturas backend escalables.
+Soy desarrollador Full Stack y estudiante de último año de la Tecnicatura Universitaria en Programación en la Universidad Nacional de Salta (UNSa). Trabajo principalmente con JavaScript y TypeScript, desarrollando aplicaciones web con React, Node.js y bases de datos relacionales.
 
 ## Tecnologías y Herramientas
 
@@ -17,15 +17,23 @@ Soy Desarrollador Full Stack y estudiante de último año de la Tecnicatura Univ
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 ### Herramientas & Entorno
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Integraciones
+
 ![Mercado Pago API](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)
 
 ## Proyectos Destacados
 
-*   **SaaS de Gestión Deportiva:** Plataforma multi-tenant para la administración integral de clubes deportivos (Tesis en curso). Arquitectura basada en Node.js, Prisma y base de datos relacional.
-*   **Gamer Store:** E-commerce Full Stack. Implementación de carrito de compras, gestión de usuarios e integración de webhooks con la API de Mercado Pago.
+*   **SaaS de Gestión Deportiva:** Plataforma SaaS B2B multi-tenant para la administración integral de clubes deportivos, desarrollada como proyecto de tesis. El sistema está orientado a la gestión de diferentes organizaciones desde una misma plataforma, con una arquitectura basada en React, TypeScript, Node.js, Express, Prisma y PostgreSQL.
+*   **Alma Lectora:** Plataforma web orientada a la comercialización de libros. Incluye catálogo de productos, carrito de compras y un flujo de compra integrado con WhatsApp, buscando ofrecer una experiencia simple y directa para los clientes.
+*   **Gamer Store:** E-commerce Full Stack con funcionalidades de carrito de compras, gestión de usuarios e integración de pagos mediante la API de Mercado Pago y webhooks para el procesamiento de transacciones.
 
 ## Contacto
 *   **Email:** santiago.carrizo.dev@gmail.com
